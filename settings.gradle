@@ -1,0 +1,6 @@
+rootProject.name = 'demo-spring-rabbitmq'
+
+include 'rabbitmq-consumer'
+include 'rabbitmq-publisher'
+include 'rabbitmq-config'
+include 'reservation-api'
